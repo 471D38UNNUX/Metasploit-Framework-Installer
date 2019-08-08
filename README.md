@@ -1,1 +1,5 @@
-# Metasploit-Framework-For-Termux
+# Metasploit Framework For Termux
+
+For installation
+
+$apt install git
