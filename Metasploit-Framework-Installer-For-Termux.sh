@@ -3,6 +3,7 @@
 apt update && apt upgrade -y
 apt install unstable-repo -y
 apt install metasploit -y
+apt install postgresql
 
 pg_ctl -D $PREFIX/var/lib/postgresql start
 
