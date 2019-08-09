@@ -38,6 +38,6 @@ Enjoy
 
 Nb: I'm not owner this tool, but i just made installation for usage more easier
 
-More information You can visit official website: https://www.rapid7.com/products/metasploit/
+For more information you can visit official website: https://www.rapid7.com/products/metasploit/
 
 Official repository: github.com/rapid7/metasploit-framework
