@@ -1,6 +1,6 @@
 ![](Metasploit-1.png)
 
-# Metasploit Framework For Termux
+# Metasploit Framework Installer
 
 Author: Rapid7
 
@@ -35,3 +35,9 @@ For start Metasploit Framework
 Enjoy
 
 ![](fery_metasploit.png)
+
+Nb: I'm not owner this tool, but i just made installation for usage more easier
+
+More information You can visit official website: https://www.rapid7.com/products/metasploit/
+
+Official repository: github.com/rapid7/metasploit-framework
