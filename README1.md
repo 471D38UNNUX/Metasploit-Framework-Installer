@@ -10,5 +10,8 @@ $cd Metasploit-Framework-For-Termux
 
 $bash Metasploit-Framework-Installer-For-Termux.sh
 
+For start Metasploit Framework
+
+$msfconsole
 
 Enjoy
