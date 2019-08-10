@@ -1,6 +1,7 @@
 #!/bin/sh
 
-sudo apt install curl wget gnupg gnupg1 gnupg2
+sudo apt update && sudo apt upgrade -y
+sudo apt install curl wget gnupg gnupg1 gnupg2 -y
 curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall
 chmod 755 msfinstall
 ./msfinstall
