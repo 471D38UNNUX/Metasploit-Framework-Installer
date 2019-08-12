@@ -4,7 +4,7 @@
 
 Author: Rapid7
 
-Before install Metasploit Framework, please turn off all antivirus
+Before install Metasploit Framework, please turn off all antivirus and firewall
 
 For termux installation
 
@@ -47,3 +47,5 @@ For more information you can visit official website: https://www.rapid7.com/prod
 Official repository: github.com/rapid7/metasploit-framework
 
 Rapid7 channel: https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w
+
+![](rapid7-logo.jpg)
