@@ -1,6 +1,7 @@
 #!/bin/sh
 
 sudo yum update -y
+sudo yum install gnupg gnupg1 gnupg2 -y
 
 print_pgp_key() {
   cat <<-EOF
