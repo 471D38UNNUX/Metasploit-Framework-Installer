@@ -30,9 +30,9 @@ For linux installation:
 
 #cd Linux
 
-#chmod 755 Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Fedora).sh
+#chmod 755 Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
 
-#./Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Fedora).sh
+#./Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
 
 For start Metasploit Framework.
 
