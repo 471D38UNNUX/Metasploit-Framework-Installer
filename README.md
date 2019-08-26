@@ -2,7 +2,7 @@
 
 # Metasploit Framework Installer
 
-Author: Rapid7
+Author: Rapid7 LLC
 
 Before install Metasploit Framework, please turn off all antivirus and firewall.
 
