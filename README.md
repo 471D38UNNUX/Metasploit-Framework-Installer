@@ -48,11 +48,13 @@ For Kali installation:
 
 #cd Linux
 
-#bash Metasploit-Framework-Installer-For-(Linux-Based-On-Debian/Kali).sh
+#bash Metasploit-Framework-Installer-For-Kali.sh
 
 For start Metasploit Framework
 
 #msfconsole
+
+You can also use based on Debian method
 
 For windows installation:
 
