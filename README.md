@@ -38,6 +38,22 @@ For start Metasploit Framework.
 
 #msfconsole
 
+For Kali installation:
+
+#sudo apt install git
+
+#git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
+
+#cd Metasploit-Framework-Installer
+
+#cd Linux
+
+#bash Metasploit-Framework-Installer-For-(Linux-Based-On-Debian/Kali).sh
+
+For start Metasploit Framework
+
+#msfconsole
+
 For windows installation:
 
 First download and install git bash in this link https://git-scm.com/
