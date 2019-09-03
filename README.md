@@ -50,11 +50,11 @@ For Kali installation:
 
 #bash Metasploit-Framework-Installer-For-Kali.sh
 
-For start Metasploit Framework
+For start Metasploit Framework.
 
 #msfconsole
 
-You can also use based on Debian method
+You can also use based on Debian method.
 
 For windows installation:
 
@@ -68,7 +68,7 @@ cd Metasploit-Framework-Installer
 
 Metasploit-Framework-For-Windows.bat
 
-After downloaded, open metasploitframework-latest.msi
+After downloaded, open metasploitframework-latest.msi.
 
 Follow this instruction:
 
@@ -90,7 +90,7 @@ Click Install
 
 After the installation completes, click Finish.
 
-Close your cmd and open it again as administrator
+Close your cmd and open it again as administrator.
 
 Browse your Metasploit Framework location ex: F:\metasploit-framework\bin
 
