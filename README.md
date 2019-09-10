@@ -66,7 +66,7 @@ git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
 cd Metasploit-Framework-Installer
 
-Metasploit-Framework-For-Windows.bat
+Metasploit-Framework-Installer-For-Windows.bat
 
 After downloaded, open metasploitframework-latest.msi.
 
