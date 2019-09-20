@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-apt update && apt upgrade -y
+apt update && apt full-upgrade -y
 pkg install unstable-repo -y
 apt install metasploit -y
 apt install postgresql -y
