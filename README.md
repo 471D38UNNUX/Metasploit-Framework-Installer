@@ -30,9 +30,7 @@ For linux installation:
 
 #cd Linux
 
-#chmod 755 Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
-
-#./Metasploit-Framework-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
+#./Metasploit-Framework-Installer-For-(your linux based).sh
 
 For start Metasploit Framework.
 
@@ -54,7 +52,7 @@ For start Metasploit Framework.
 
 #msfconsole
 
-You can also use based on Debian method.
+You can also use linux based on Debian method.
 
 For windows installation:
 
