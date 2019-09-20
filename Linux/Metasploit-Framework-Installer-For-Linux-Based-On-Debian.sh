@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt full-upgrade -y
 sudo apt install wget gnupg gnupg1 gnupg2 -y
 
 sudo echo 'http://downloads.metasploit.com/data/releases/metasploit-framework/apt lucid main' > /etc/apt/sources.list.d/metasploit-framework.list
