@@ -15,4 +15,4 @@ echo gpgcheck=1 >> /etc/zypp/repos.d/metasploit-framework.repo
 echo gpgkey=http://apt.metasploit.com/metasploit-framework.gpg.key >> /etc/zypp/repos.d/metasploit-framework.repo'
 
 sudo zypper ref
-sudo zypper install metasploit-framework -y
+sudo zypper install metasploit-framework
