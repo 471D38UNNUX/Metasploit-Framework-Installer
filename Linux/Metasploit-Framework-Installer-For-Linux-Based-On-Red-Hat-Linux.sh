@@ -3,7 +3,6 @@
 sudo yum update -y
 sudo yum install curl gnupg gnupg1 gnupg2 -y
 
-
 echo "Enter your root password."
 su -c'
 echo [metasploit] > /etc/yum.repos.d/metasploit-framework.repo
