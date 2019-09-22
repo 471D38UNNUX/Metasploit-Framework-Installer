@@ -8,7 +8,7 @@ Before install Metasploit Framework, please turn off all antivirus and firewall.
 
 For termux installation:
 
-$apt install git
+$apt install git -y
 
 $git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
@@ -22,7 +22,7 @@ $msfconsole
 
 For linux installation:
 
-#sudo apt install git
+#sudo (apt/yum/zypper) install git
 
 #git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
@@ -30,7 +30,7 @@ For linux installation:
 
 #cd Linux
 
-#./Metasploit-Framework-Installer-For-(your linux based).sh
+#bash Metasploit-Framework-Installer-For-(your linux based).sh
 
 For start Metasploit Framework.
 
