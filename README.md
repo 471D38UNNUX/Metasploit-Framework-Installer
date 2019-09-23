@@ -38,7 +38,7 @@ For start Metasploit Framework.
 
 For Kali installation:
 
-#sudo apt install git
+#sudo apt install git -y
 
 #git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
