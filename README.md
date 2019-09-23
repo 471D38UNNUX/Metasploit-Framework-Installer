@@ -104,7 +104,7 @@ Nb: I'm not owner this tool, but i just made installation for usage more easier.
 
 For more information you can visit official website: https://www.rapid7.com/products/metasploit/
 
-Official repository: github.com/rapid7/metasploit-framework
+Official repository: https://github.com/rapid7/metasploit-framework
 
 Rapid7 channel: https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w
 
