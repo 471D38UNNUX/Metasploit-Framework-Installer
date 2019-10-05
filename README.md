@@ -56,7 +56,11 @@ You can also use linux based on Debian method.
 
 For windows installation:
 
-First download and install git bash in this link https://git-scm.com/
+First download and install git bash and postgresql in this link:
+
+Git bash  : https://git-scm.com/downloads
+
+Postgresql: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 After install git, open your cmd and run this script:
 
@@ -66,35 +70,23 @@ cd Metasploit-Framework-Installer
 
 Metasploit-Framework-Installer-For-Windows.bat
 
-After downloaded, open metasploitframework-latest.msi.
+Run postgresql service:
 
-Follow this instruction:
+Search and open pgAdmin 4.
 
-![](205649e-msf-windows-welcome.png)
+Click on Servers > PostgreSQL in the left tree.
 
-Click Next to continue.
+Enter super user password set during installation.
 
-![](96500cd-msf-windows-license.png)
+Open cmd again and run this script:
 
-Select the I accept the license agreement and click Next to continue.
+cd metasploit-framework/bin
 
-![](df9cc20-msf-windows-dir.png)
+msfdb init
 
-Browse to the location where you want to install the Metasploit Framework. After that, click Next to continue.
+msfconsole
 
-![](557c5f0-msf-windows-install.png)
-
-Click Install
-
-After the installation completes, click Finish.
-
-Close your cmd and open it again as administrator.
-
-Browse your Metasploit Framework location ex: F:\metasploit-framework\bin
-
-Run msfdb init
-
-Run msfconsole
+For update Metasploit Framework run msfupdate
 
 Enjoy.
 
