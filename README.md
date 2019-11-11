@@ -80,8 +80,6 @@ Enter super user password set during installation.
 
 Open cmd again and run this script:
 
-cd metasploit-framework/bin
-
 msfdb init
 
 msfconsole
