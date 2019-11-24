@@ -4,8 +4,6 @@
 
 Author: Rapid7 LLC
 
-Before install Metasploit Framework, please turn off all antivirus and firewall.
-
 For termux installation:
 
 $apt install git -y
@@ -56,9 +54,11 @@ You can also use linux based on Debian method.
 
 For windows installation:
 
-First download and install git bash and postgresql in this link:
+Before install Metasploit Framework, please turn off all antivirus and firewall.
 
-Git bash  : https://git-scm.com/downloads
+First download and install Git Bash and Postgresql in this link:
+
+Git Bash  : https://git-scm.com/downloads
 
 Postgresql: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
