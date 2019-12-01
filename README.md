@@ -34,7 +34,7 @@ For start Metasploit Framework.
 
 #msfconsole
 
-For Kali installation:
+For Kali/Parrot installation:
 
 #sudo apt install git -y
 
@@ -44,7 +44,7 @@ For Kali installation:
 
 #cd Linux
 
-#bash Metasploit-Framework-Installer-For-Kali.sh
+#bash Metasploit-Framework-Installer-For-Kali/Parrot.sh
 
 For start Metasploit Framework.
 
