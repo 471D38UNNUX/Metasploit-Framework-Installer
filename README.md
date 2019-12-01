@@ -44,7 +44,7 @@ For Kali/Parrot installation:
 
 #cd Linux
 
-#bash Metasploit-Framework-Installer-For-Kali/Parrot.sh
+#bash Metasploit-Framework-Installer-For-Kali.sh
 
 For start Metasploit Framework.
 
