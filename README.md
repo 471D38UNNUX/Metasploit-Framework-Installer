@@ -68,9 +68,17 @@ git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
 cd Metasploit-Framework-Installer
 
+Metasploit-Framework-Installer-For-Windows.bat (Windows 10 build 17063 or newer)
+
+For windows earlier version than Windows 10 build 17063:
+
+cd Windows Old
+
+cd (32/64) bit
+
 Metasploit-Framework-Installer-For-Windows.bat
 
-Run postgresql service:
+Before run Metasploit Framework, run postgresql service first:
 
 Search and open pgAdmin 4.
 
@@ -78,7 +86,9 @@ Click on Servers > PostgreSQL in the left tree.
 
 Enter super user password set during installation.
 
-Open cmd again and run this script:
+For run Metasploit Framework:
+
+Open cmd and run this command:
 
 msfdb init
 
