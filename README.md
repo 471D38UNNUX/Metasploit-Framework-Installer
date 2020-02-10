@@ -34,6 +34,8 @@ For start Metasploit Framework.
 
 #msfconsole
 
+For Linux based on Red Hat and SUSE command not found problem copy all files in msfix to /bin
+
 For Kali/Parrot installation:
 
 #sudo apt install git -y
