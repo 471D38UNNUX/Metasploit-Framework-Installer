@@ -8,6 +8,7 @@ apt install postgresql -y
 mkdir -p $PREFIX/var/lib/postgresql
 initdb $PREFIX/var/lib/postgresql
 pg_ctl -D $PREFIX/var/lib/postgresql start
+echo pg_ctl -D $PREFIX/var/lib/postgresql start >> $PREFIX/etc/bash.bashrc
 
 echo "You can now launch Metasploit."
 echo "Run msfconsole for start Metasploit."
