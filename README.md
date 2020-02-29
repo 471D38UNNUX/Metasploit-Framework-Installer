@@ -20,7 +20,13 @@ $msfconsole
 
 For linux installation:
 
-#sudo (apt/yum/zypper) install git
+#sudo apt install git -y (for Linux based on Debian)
+
+#sudo yum install git -y (for Linux based on Red Hat)
+
+#sudo zypper install git (for Linux based on SUSE)
+
+#sudo  pacman -S git (for Linux based on Arch)
 
 #git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
 
