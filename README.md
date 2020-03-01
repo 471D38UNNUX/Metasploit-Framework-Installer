@@ -60,6 +60,8 @@ For start Metasploit Framework.
 
 You can also use linux based on Debian method.
 
+Nb: for Linux WSL 1 version, before install Metasploit Framework, please turn off all antivirus and firewall.
+
 For windows installation:
 
 Before install Metasploit Framework, please turn off all antivirus and firewall.
