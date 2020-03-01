@@ -5,3 +5,6 @@ C:\Users\%username%\Downloads\Wincurl\32\bin\curl http://windows.metasploit.com/
 msiexec /i "C:\Users\%username%\Downloads\metasploitframework-latest.msi" INSTALLDIR="C:\metasploit-framework" /qr /norestart 
 del C:\Users\%username%\Downloads\metasploitframework-latest.msi
 del C:\Users\%username%\Downloads\Wincurl
+
+msfdb init
+msfconsole
