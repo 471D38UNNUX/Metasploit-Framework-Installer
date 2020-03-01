@@ -6,5 +6,89 @@ msiexec /i "C:\Users\%username%\Downloads\metasploitframework-latest.msi" INSTAL
 del C:\Users\%username%\Downloads\metasploitframework-latest.msi
 del C:\Users\%username%\Downloads\Wincurl
 
+echo You can now launch Metasploit.
+echo Run msfconsole for start Metasploit.
+
+echo Ready for launch.
+echo = && timeout /t 1 /nobreak >nul
+echo == && timeout /t 1 /nobreak >nul
+echo === && timeout /t 1 /nobreak >nul
+echo ==== && timeout /t 1 /nobreak >nul
+echo ===== && timeout /t 1 /nobreak >nul
+echo ====== && timeout /t 1 /nobreak >nul
+echo ======= && timeout /t 1 /nobreak >nul
+echo ======== && timeout /t 1 /nobreak >nul
+echo ========= && timeout /t 1 /nobreak >nul
+echo ========== && timeout /t 1 /nobreak >nul
+echo =========== && timeout /t 1 /nobreak >nul
+echo ============ && timeout /t 1 /nobreak >nul
+echo ============= && timeout /t 1 /nobreak >nul
+echo ============== && timeout /t 1 /nobreak >nul
+echo =============== && timeout /t 1 /nobreak >nul
+echo ================ && timeout /t 1 /nobreak >nul
+echo ================= && timeout /t 1 /nobreak >nul
+echo ================== && timeout /t 1 /nobreak >nul
+echo =================== && timeout /t 1 /nobreak >nul
+echo ==================== && timeout /t 1 /nobreak >nul
+echo ===================== && timeout /t 1 /nobreak >nul
+echo ====================== && timeout /t 1 /nobreak >nul
+echo ======================= && timeout /t 1 /nobreak >nul
+echo ======================== && timeout /t 1 /nobreak >nul
+echo ========================= && timeout /t 1 /nobreak >nul
+echo ========================== && timeout /t 1 /nobreak >nul
+echo =========================== && timeout /t 1 /nobreak >nul
+echo ============================ && timeout /t 1 /nobreak >nul
+echo ============================= && timeout /t 1 /nobreak >nul
+echo ============================== && timeout /t 1 /nobreak >nul
+echo =============================== && timeout /t 1 /nobreak >nul
+echo ================================ && timeout /t 1 /nobreak >nul
+echo ================================= && timeout /t 1 /nobreak >nul
+echo ================================== && timeout /t 1 /nobreak >nul
+echo =================================== && timeout /t 1 /nobreak >nul
+echo ==================================== && timeout /t 1 /nobreak >nul
+echo ===================================== && timeout /t 1 /nobreak >nul
+echo ====================================== && timeout /t 1 /nobreak >nul
+echo ======================================= && timeout /t 1 /nobreak >nul
+echo ======================================== && timeout /t 1 /nobreak >nul
+echo ========================================= && timeout /t 1 /nobreak >nul
+echo ========================================== && timeout /t 1 /nobreak >nul
+echo =========================================== && timeout /t 1 /nobreak >nul
+echo ============================================ && timeout /t 1 /nobreak >nul
+echo ============================================= && timeout /t 1 /nobreak >nul
+echo ============================================== && timeout /t 1 /nobreak >nul
+echo =============================================== && timeout /t 1 /nobreak >nul
+echo ================================================ && timeout /t 1 /nobreak >nul
+echo ================================================= && timeout /t 1 /nobreak >nul
+echo ================================================== && timeout /t 1 /nobreak >nul
+echo =================================================== && timeout /t 1 /nobreak >nul
+echo ==================================================== && timeout /t 1 /nobreak >nul
+echo ===================================================== && timeout /t 1 /nobreak >nul
+echo ====================================================== && timeout /t 1 /nobreak >nul
+echo ======================================================= && timeout /t 1 /nobreak >nul
+echo ======================================================== && timeout /t 1 /nobreak >nul
+echo ========================================================= && timeout /t 1 /nobreak >nul
+echo ========================================================== && timeout /t 1 /nobreak >nul
+echo =========================================================== && timeout /t 1 /nobreak >nul
+echo ============================================================ && timeout /t 1 /nobreak >nul
+echo ============================================================= && timeout /t 1 /nobreak >nul
+echo ============================================================== && timeout /t 1 /nobreak >nul
+echo =============================================================== && timeout /t 1 /nobreak >nul
+echo ================================================================ && timeout /t 1 /nobreak >nul
+echo ================================================================= && timeout /t 1 /nobreak >nul
+echo ================================================================== && timeout /t 1 /nobreak >nul
+echo =================================================================== && timeout /t 1 /nobreak >nul
+echo ==================================================================== && timeout /t 1 /nobreak >nul
+echo ===================================================================== && timeout /t 1 /nobreak >nul
+echo ====================================================================== && timeout /t 1 /nobreak >nul
+echo ======================================================================= && timeout /t 1 /nobreak >nul
+echo ======================================================================== && timeout /t 1 /nobreak >nul
+echo ========================================================================= && timeout /t 1 /nobreak >nul
+echo ========================================================================== && timeout /t 1 /nobreak >nul
+echo =========================================================================== && timeout /t 1 /nobreak >nul
+echo ============================================================================ && timeout /t 1 /nobreak >nul
+echo ============================================================================= && timeout /t 1 /nobreak >nul
+echo ============================================================================== && timeout /t 1 /nobreak >nul
+echo =============================================================================== && timeout /t 1 /nobreak >nul
+
 msfdb init
 msfconsole
