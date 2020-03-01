@@ -1,10 +1,10 @@
 #!/bin/sh
 
 sudo apt update && sudo apt upgrade -y
-sudo apt install postgresql -y
-sudo apt install metasploit-framework -y
+sudo apt install postgresql metasploit-framework -y
 
 sudo service postgresql start
+echo sudo service postgresql start >> ~/.bashrc
 sudo msfdb init
 
 echo "You can now launch Metasploit."
