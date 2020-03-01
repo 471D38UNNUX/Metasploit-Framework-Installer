@@ -15,6 +15,7 @@ curl http://apt.metasploit.com/metasploit-framework.gpg.key > /etc/pki/rpm-gpg/R
 
 sudo yum update -y
 sudo yum install metasploit-framework -y
+echo msfdb start >> ~/.bashrc
 
 echo "You can now launch Metasploit."
 echo "Run msfconsole for start Metasploit."
