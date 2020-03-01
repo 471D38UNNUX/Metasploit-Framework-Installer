@@ -74,23 +74,7 @@ Git Bash  : https://git-scm.com/downloads
 
 Postgresql: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-After install git, open your cmd and run this script:
-
-git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
-
-cd Metasploit-Framework-Installer
-
-Metasploit-Framework-Installer-For-Windows.bat (Windows 10 build 17063 or newer)
-
-For windows earlier version than Windows 10 build 17063:
-
-cd Windows Old
-
-cd (32/64) bit
-
-Metasploit-Framework-Installer-For-Windows.bat
-
-Before run Metasploit Framework, configure postgresql service first:
+After install postgresql, configure this service:
 
 Search and open pgAdmin 4.
 
@@ -108,11 +92,23 @@ Find postgresql*, right click and select properties.
 
 Change startup type to automatic and click ok.
 
+Open cmd and run this script:
+
+git clone https://github.com/471D38UNNUX/Metasploit-Framework-Installer
+
+cd Metasploit-Framework-Installer
+
+Metasploit-Framework-Installer-For-Windows.bat (Windows 10 build 17063 or newer)
+
+For windows earlier version than Windows 10 build 17063:
+
+cd Windows Old
+
+cd (32/64) bit
+
+Metasploit-Framework-Installer-For-Windows.bat
+
 For run Metasploit Framework:
-
-Open cmd and run this command:
-
-msfdb init
 
 msfconsole
 
