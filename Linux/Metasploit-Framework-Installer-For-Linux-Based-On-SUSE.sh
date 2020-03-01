@@ -16,6 +16,7 @@ echo gpgkey=http://apt.metasploit.com/metasploit-framework.gpg.key >> /etc/zypp/
 
 sudo zypper ref
 sudo zypper install metasploit-framework
+echo msfdb start >> ~/.bashrc
 
 echo "You can now launch Metasploit."
 echo "Run msfconsole for start Metasploit."
