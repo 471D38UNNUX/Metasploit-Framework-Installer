@@ -40,6 +40,8 @@ For start Metasploit Framework.
 
 #msfconsole
 
+Nb: run as non root user
+
 For Linux based on Red Hat and SUSE command not found problem copy all files in msfix to /bin
 
 For Kali/Parrot installation:
