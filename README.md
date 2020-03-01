@@ -88,13 +88,23 @@ cd (32/64) bit
 
 Metasploit-Framework-Installer-For-Windows.bat
 
-Before run Metasploit Framework, run postgresql service first:
+Before run Metasploit Framework, configure postgresql service first:
 
 Search and open pgAdmin 4.
 
-Click on Servers > PostgreSQL in the left tree.
-
 Enter super user password set during installation.
+
+Right click on Servers > PostgreSQL* > Databases in the left tree.
+
+Select create > database...
+
+Name it as msfdb and save.
+
+Open Control Panel > Administrative Tools > Services
+
+Find postgresql*, right click and select properties.
+
+Change startup type to automatic and click ok.
 
 For run Metasploit Framework:
 
