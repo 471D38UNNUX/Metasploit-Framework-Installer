@@ -14,6 +14,12 @@ $cd Metasploit-Framework-Installer
 
 $bash Metasploit-Framework-Installer-For-Termux.sh
 
+Control:
+
+Left =volume up + A
+
+Right=volume up + D
+
 For start Metasploit Framework.
 
 $msfconsole
