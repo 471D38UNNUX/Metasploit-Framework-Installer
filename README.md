@@ -130,6 +130,8 @@ For more information you can visit official website: https://www.rapid7.com/prod
 
 Official repository: https://github.com/rapid7/metasploit-framework
 
-Rapid7 channel: https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w
+Rapid7 channel     : https://www.youtube.com/channel/UCnctXOUIeRFu1BR5O0W5e9w
+
+Metasploit channel : https://www.youtube.com/channel/UCx4d2aRIfxfEUdS_5YIYKPg
 
 ![](rapid7-logo.jpg)
